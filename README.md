@@ -20,4 +20,4 @@ I learn how to use every element in the next list of technologies in Soy Henry:
 ---
 ### Contact
 email: mauriciorico43@gmail.com
-[LinkedIn]([URL_del_perfil_de_LinkedIn)](https://www.linkedin.com/in/mauricio-yael-rico-v%C3%A1zquez-990908154)https://www.linkedin.com/in/mauricio-yael-rico-v%C3%A1zquez-990908154
+[LinkedIn](https://www.linkedin.com/in/mauricio-yael-rico-v%C3%A1zquez-990908154)
