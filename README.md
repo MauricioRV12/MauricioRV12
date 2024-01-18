@@ -19,5 +19,5 @@ I learn how to use every element in the next list of technologies in Soy Henry:
 * GIT
 ---
 ### Contact
-email: mauriciorico43@gmail.com
-[LinkedIn](https://www.linkedin.com/in/mauricio-yael-rico-v%C3%A1zquez-990908154)
+* email: mauriciorico43@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/mauricio-yael-rico-v%C3%A1zquez-990908154)
